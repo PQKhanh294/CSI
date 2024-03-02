@@ -1,0 +1,73 @@
+body {
+    margin: 0px;
+}
+
+.cv-document {
+	box-sizing: border-box;
+	border: none;
+	outline: 0;
+	font-weight: inherit;
+	font-style: inherit;
+	vertical-align: baseline;
+	text-decoration: none;
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	font-family: arial, sans-serif, tahoma;
+	font-size: 10pt;
+}
+
+.cv-page {
+    outline: 0;
+    font-weight: inherit;
+    font-style: inherit;
+    font-size: 100%;
+    vertical-align: baseline;
+    text-decoration: none;
+    width: 900px;
+    min-height: 900px;
+    margin: 0 auto;
+    box-shadow: 0 0 1px rgba(0,0,0,.5);
+    background-color: #fff;
+    position: relative;
+
+    padding: 40px
+}
+.Name-hearder{
+    font-size: 45px;
+    font-weight: bold;
+    color:#0e2452;
+    
+}
+.infomation{
+    font-size: large;
+    font-weight: bold;
+    line-height: 2;
+    
+}
+.small-infor{
+    position: absolute;
+    left: 200px;
+    font-weight: normal;
+    
+}
+.hearder-passeger{
+    font-size: x-large;
+    text-transform: uppercase;
+    font-weight: bold;
+ 
+}
+.target-content{
+    font-size: 19px;
+    
+}
+.information-content{
+    position: absolute;
+    left: 350px;
+    font-weight: normal;
+    
+
+}
+.white-space{
+    padding-bottom: 40px;
+}
